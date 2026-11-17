@@ -1,14 +1,18 @@
-## Hey there, I'm Ethan!👋 
+# Hey there, I'm Ethan!👋 
+
+## About Me 😄
+Pronouns - He/Him\
+BDay - February 24th 🎂\
+Nationality - Vietnamese :vietnam:\
+Interests:
+- Video Games 🎮
+- Coding ⌨️
+- Food 🍣
+- Engineering ⚙️
+- Computers 🖥️
 
 
-
-# About Me
-Pronouns - He/Him |
-BDay - February 24th |
-Nationality - Vietnamese :vietnam:
-
-
-I am a High School Junior currently enrolled at Milton High School! I loving technology and playing video games! I am looking to major in the engineering field (probably Biomedical Engineering)!
+I am a High School Junior currently enrolled at Milton High School! I love technology and playing video games! I am looking to double major in the engineering field (probably Biomedical Engineering) and in the Technology field! I play Football🏈 and Volleyball🏐 for my school and do multiple after-school clubs such as Science Olympiad :atom:! I also hold the Secretary position for the Asian Culture Club at MHS!
 
 
 <!--
