@@ -1,8 +1,15 @@
 ## Hey there, I'm Ethan!👋 
 
-Pronouns - He/Him
+
+
+# About Me
+Pronouns - He/Him |
+BDay - February 24th |
+Nationality - Vietnamese :vietnam:
+
 
 I am a High School Junior currently enrolled at Milton High School! I loving technology and playing video games! I am looking to major in the engineering field (probably Biomedical Engineering)!
+
 
 <!--
 **EthanNguyenProgramming/EthanNguyenProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
