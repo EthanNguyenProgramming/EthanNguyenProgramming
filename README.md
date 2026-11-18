@@ -18,7 +18,6 @@ I am a high school junior currently enrolled at Milton High School! I love techn
 - Norwich OSINT Camp
 - Norwich Cyber Immersion Camp
 - BU Summer Engineering Camp (i forgot the name)
-- 
 
 ## What I Am Currently Doing 🤓
 - Working on acquiring the FreeCodeCamp.org Python certificate 🐍
