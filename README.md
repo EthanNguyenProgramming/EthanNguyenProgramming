@@ -12,8 +12,21 @@ Interests:
 - Computers 🖥️
 
 
-I am a High School Junior currently enrolled at Milton High School! I love technology and playing video games! I am looking to double major in the engineering field (probably Biomedical Engineering) and in the Technology field! I play Football🏈 and Volleyball🏐 for my school and do multiple after-school clubs such as Science Olympiad :atom:! I also hold the Secretary position for the Asian Culture Club at MHS!
+I am a high school junior currently enrolled at Milton High School! I love technology and playing video games! I am looking to double major in the engineering field (probably Biomedical Engineering) and in the Technology field! I play Football🏈 and Volleyball🏐 for my school and do multiple after-school clubs such as Science Olympiad :atom:! I also hold the Secretary position for the Asian Culture Club at MHS!
 
+## What I Am Currently Doing 🤓
+- Working on acquiring the FreeCodeCamp.org Python certificate 🐍
+- Working on getting the Microsoft C# Fundamentals certificate 
+- Getting the Fortnite Pirate Token 🏴‍☠️ (Why they giving me everything BUT the pirate token bro 😠)
+- Setting up my own personal website 🧭
+
+## Future Projects 👷
+idk ill update this later
+
+## Contacts 📞
+Email 📫 | ethannprogramming@gmail.com\
+Phone 📱 | i will not get prank called 😠\
+Address 🏠| i will not get swatted 👮
 
 <!--
 **EthanNguyenProgramming/EthanNguyenProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
