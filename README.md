@@ -18,6 +18,13 @@ I am a high school junior currently enrolled at Milton High School! I love techn
 - Norwich Cyber Immersion Camp
 - BU Summer Engineering Camp (i forgot the name)
 
+## Related Courses
+- CP Intro to Engineering
+- AP Computer Science Principles
+- AP Computer Science A
+- AP PreCalculus
+- AP Physics 1
+
 ## What I Am Currently Doing 🤓
 - Working on acquiring the FreeCodeCamp.org Python certificate 🐍
 - Working on getting the Microsoft C# Fundamentals certificate 
