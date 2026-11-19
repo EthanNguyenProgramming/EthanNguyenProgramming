@@ -19,11 +19,11 @@ I am a high school junior currently enrolled at Milton High School! I love techn
 - BU Summer Engineering Camp (i forgot the name)
 
 ## Related Courses
-- CP Intro to Engineering
-- AP Computer Science Principles
-- AP Computer Science A
-- AP PreCalculus
-- AP Physics 1
+- CP Intro to Engineering ⚙️
+- AP Computer Science Principles 💻
+- AP Computer Science A 💻
+- AP Precalculus 🔢 
+- AP Physics 1 :atom:
 
 ## What I Am Currently Doing 🤓
 - Working on acquiring the FreeCodeCamp.org Python certificate 🐍
