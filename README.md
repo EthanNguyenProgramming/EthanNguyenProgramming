@@ -1,7 +1,7 @@
 # Hey there, I'm Ethan!👋 
 
 <p align="center">
-  <img src="donut.svg" alt="spinning donut" width="500">
+  <img src="" width="600" alt="Demo">
 </p>
 
 
