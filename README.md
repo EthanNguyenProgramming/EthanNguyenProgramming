@@ -1,12 +1,8 @@
 # Hey there, I'm Ethan!👋 
 
-  <summary>📊 Live GitHub Stats</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EthanNguyenProgramming&show_icons=true&theme=transparent" height="165" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanNguyenProgramming&layout=compact&theme=transparent" height="165" />
-  </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/evan-erdos/donut/master/donut.gif" width="320" alt="Spinning ASCII Donut" />
+</p>
 
 
 ## About Me 😄
