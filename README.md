@@ -1,7 +1,7 @@
 # Hey there, I'm Ethan!👋 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/evan-erdos/donut/master/donut.gif" width="320" alt="Spinning ASCII Donut" />
+  <img src="donut.svg" alt="spinning donut" width="500">
 </p>
 
 
