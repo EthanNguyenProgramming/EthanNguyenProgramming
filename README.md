@@ -1,10 +1,5 @@
 # Hey there, I'm Ethan!👋 
 
-<p align="center">
-  <img src="" width="600" alt="Demo">
-</p>
-
-
 ## About Me 😄
 Pronouns - He/Him\
 BDay - February 24th 🎂\
