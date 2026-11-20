@@ -31,6 +31,8 @@ I am a high school junior currently enrolled at Milton High School! I love techn
 - Working on getting the Microsoft C# Fundamentals certificate 
 - Getting the Fortnite Pirate Token 🏴‍☠️ (Why they giving me everything BUT the pirate token bro 😠)
 - Setting up my own personal website 🧭
+- Researching 3D printers
+- designing my own UAV (kind of like a predator drone)
 
 ## Future Projects 👷
 idk ill update this later
